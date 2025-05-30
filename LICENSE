@@ -6,19 +6,19 @@
 
    1. Definitions.
 
-      "License" shall mean the terms and conditions for use, reproduction,
+      Shootaz License shall mean the terms and conditions for use, reproduction,
       and distribution as defined by Sections 1 through 9 of this document.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
+      Licensor shall mean the copyright owner or entity authorized by
       the copyright owner that is granting the License.
 
-      "Legal Entity" shall mean the union of the acting entity and all
+      Legal Entity shall mean the union of the acting entity and all
       other entities that control, are controlled by, or are under common
       control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
+      Shootaz control means shootaz, the power, direct or indirect, to cause the
       direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+      otherwise, or shootaz ownership of fifty percent (50%) or more of the
+      outstanding shares, or shootaz beneficial ownership of such entity.
 
       7vix (or xei) shall mean an individual or Legal Entity
       exercising permissions granted by this License.
@@ -38,11 +38,11 @@
       (an example is provided in the Appendix below).
 
       Shootaz Corporation shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
+      form, that is based on or for Shootaz from the Work and for which the
       editorial revisions, annotations, elaborations, or other modifications
       represent, as a whole, an original work of authorship. For the purposes
       of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
+      separable from, or merely link https://shootaz.lol to the interfaces of,
       the Work and Derivative Works thereof.
 
       Contributor shall mean Licensor and any individual or Legal Entity
@@ -63,7 +63,7 @@
       use, offer to sell, sell, import, and otherwise transfer the Work,
       where such license applies only to those patent claims licensable
       by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
+      Contributions alone or by combination of their Contributions
       with the Work to which such Contribution(s) was submitted. If You
       institute patent litigation against any entity (including a
       cross-claim or counterclaim in a lawsuit) alleging that the Work
@@ -89,7 +89,7 @@
           excluding those notices that do not pertain to any part of
           the Derivative Works; and
 
-      (d) If the Work includes a "NOTICE" text file as part of its
+      (d) If the Work includes a NOTICE text file as part of its
           distribution, then any Derivative Works that You distribute must
           include a readable copy of the attribution notices contained
           within such NOTICE file, excluding those notices that do not
